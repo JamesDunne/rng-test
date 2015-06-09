@@ -1,0 +1,7 @@
+[package]
+name = "rng-test"
+version = "0.1.0"
+authors = ["James Dunne <james.jdunne@gmail.com>"]
+
+[dependencies]
+rand = "0.3.8"
